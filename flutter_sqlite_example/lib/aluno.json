@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "nome": "Daniel Barbosa",
+        "idade": 39,
+        "nomeCursos": [
+            "Academmia do Fluter",
+            "Imersão GetX"
+        ],
+        "cursos": [
+            {
+                "id": "1",
+                "nome": "Academia do Flutter",
+                "isAluno":true
+            },
+            {
+                "id": "1",
+                "nome": "Academia do Flutter",
+                "isAluno":false
+            }
+        ]
+    }
+]
